@@ -1,0 +1,2 @@
+# QuanX-rule
+Quantumult X
